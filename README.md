@@ -1,6 +1,6 @@
 # Jugglin
 
-Jugglin is a Tarock game for three with a standard deck, where every tarock has a twin and the Pagat beats the Fool.
+Jugglin is a standard-deck Tarock game for three, where every tarock has a twin and the Pagat beats the Fool.
 
 👉 View the game on BoardGameGeek:  
 https://boardgamegeek.com/boardgame/483309/jugglin
